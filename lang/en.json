@@ -9,8 +9,7 @@
         "navigate": "Navigate",
         "info": "Info",
         "categories": "Categories",
-        "call_us": "Call us at {phone_number}",
-        "powered_by": "Powered by"
+        "call_us": "Call us at {phone_number}"
     },
     "home": {
         "heading": "Home"
